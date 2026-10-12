@@ -1,0 +1,5 @@
+_tools/
+.DS_Store
+__pycache__/
+*.pptx
+*.mp4

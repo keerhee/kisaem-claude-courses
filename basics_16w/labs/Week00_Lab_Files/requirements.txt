@@ -1,0 +1,8 @@
+pandas
+openpyxl
+requests
+matplotlib
+beautifulsoup4
+docxtpl
+python-docx
+python-pptx
